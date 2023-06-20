@@ -1,3 +1,9 @@
+'''
+ Crea un programa que detecte cuando el famoso "Código Konami" se ha introducido
+ correctamente desde el teclado. 
+ Si sucede esto, debe notificarse mostrando un mensaje en la terminal.
+'''
+
 import keyboard
 
 codeKonami = {"Heal":["up","down", "a","b"], 
@@ -22,8 +28,3 @@ def verifyIsKonamiDef():
     return keyPressed
 
 
-def verifKonamiCode():
-    while True:
-        teclas = verifyIsKonami()
-        if teclas:
-            print('Teclas presionadas:', teclas)
