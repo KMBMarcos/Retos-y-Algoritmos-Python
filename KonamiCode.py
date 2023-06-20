@@ -25,5 +25,5 @@ def verifyIsKonamiDef():
 def verifKonamiCode():
     while True:
         teclas = verifyIsKonami()
-    if teclas:
-        print('Teclas presionadas:', teclas)
+        if teclas:
+            print('Teclas presionadas:', teclas)
