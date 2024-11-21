@@ -15,3 +15,8 @@ En este repositorio puedes constribuir con:
 4. Alguna creacion tuya que sume a la programación en python.
 5. Alguna idea o sugerencia para hacer crecer el repostorio.
 6. Crear sus propias versiones de los retos o algoritmos.
+
+
+### Por favor manten la nomenclatura y organizacion de los directorios.
+- Carpetas: letras mayuscula
+- Solución: nombre de usuario de la solucion.
